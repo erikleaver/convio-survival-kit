@@ -1,7 +1,7 @@
 convio-survival-kit
 ===================
 
-A PHP Utility to Help Make Convio Suck Less
+A PHP Utility to Help Make Convio Integrate with WP
 
 LIVE version courtesy of United to End Genocide:
 http://developer.endgenocide.org/api
